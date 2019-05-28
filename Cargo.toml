@@ -1,0 +1,7 @@
+[package]
+name = "versions"
+version = "0.1.0"
+authors = ["Brock Smedley <brock@firstfoundry.co>"]
+edition = "2018"
+
+[dependencies]
